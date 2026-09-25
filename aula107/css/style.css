@@ -1,0 +1,148 @@
+body {
+    background-color: #E2E4DD;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.sobre {
+    text-align: center;
+}
+
+.habilidades {
+    text-align: center;
+}
+
+.hobbies {
+    text-align: center;
+}
+
+.contato {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.tabela {
+    border-style: solid;
+    border-color: #4D5061;
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-radius: 12px;
+}
+
+th, td {
+    border: 1px solid #4D5061;
+    border-radius: 12px;
+    padding: 12px;
+    text-align: center;
+}
+
+ul {
+      text-align: center;
+      list-style-position: inside;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: #222222;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+font-size: 18px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.galeria {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 40px 20px;
+}
+
+
+.galeria img {
+  width: 25%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 3px solid #333333;
+  border-radius: 12px;
+}
+
+.contato {
+    text-align: center;
+}
+
+.foto {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.contato i {
+  font-size: 30px;
+}
+
+#contato-form {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+#contato-form label {
+  display: block;
+  margin-bottom: 8px;
+  color: #555;
+  font-weight: bold;
+}
+
+#contato-form input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}

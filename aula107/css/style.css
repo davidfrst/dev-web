@@ -1,0 +1,63 @@
+body {
+    background-color: #E2E4DD;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.sobre {
+    text-align: center;
+}
+
+.habilidades {
+    text-align: center;
+}
+
+.hobbies {
+    text-align: center;
+}
+
+.contato {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.tabela {
+    border-style: solid;
+    border-color: #4D5061;
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #4D5061;
+    padding: 12px;
+    text-align: center;
+}
+ul {
+    width: max-content;
+    margin: 0 auto; 
+    padding: 0;   
+}
+

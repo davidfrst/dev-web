@@ -1,0 +1,19 @@
+NOME
+Template 1: Strata
+Template 2: Solid State
+
+TEMA
+Template 1: Portfólio Pessoal
+Template 2: Repositório de Projetos
+
+O QUE GOSTOU?
+Template 1: Estrutura limpa de apenas uma tela, com foco direto na exibição de projetos.
+Template 2: O design com dark mode nativo.
+
+O QUE MODIFICARIA?
+Template 1: Trocaria a área da foto de perfil estática por um bloco de texto simulando um terminal ou algo relacionado à programação.
+Template 2: Achei a página estática demais.
+
+É RESPONSIVO?
+Template 1: Sim, o painel lateral é ocultado automaticamente em telas mobiles.
+Template 2: Sim, o grid muda perfeitamente no mobile.
